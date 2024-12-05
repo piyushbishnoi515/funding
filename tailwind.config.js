@@ -16,8 +16,8 @@ module.exports = {
         }
       },
       backgroundImage: {
-        'hero-bg': "url('./assets/images/webp/hero-bg.png')",
-        'hero-small': "url('./assets/images/webp/hero-bg-smallscreen.png')",
+        'main': "url('./assets/images/webp/main.webp')",
+        'small': "url('./assets/images/webp/smallscreen.png')",
       },
       colors: {
         'blue': "#4C57FF",

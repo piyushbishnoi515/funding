@@ -1,6 +1,7 @@
 import './App.css';
 import Faq from './components/Faq';
 import Figure from './components/Figure';
+import Footer from './components/Footer';
 import Forecasting from './components/Forecasting';
 import Hero from './components/Hero';
 import Platform from './components/Platform';
@@ -15,6 +16,7 @@ function App() {
       <Rating />
       <Faq />
       <Figure />
+      <Footer />
     </>
   );
 }
